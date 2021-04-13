@@ -7,9 +7,9 @@ script = ExtResource( 1 )
 
 [node name="Host" type="Button" parent="."]
 margin_left = 332.5
-margin_top = 138.75
+margin_top = 141.75
 margin_right = 714.5
-margin_bottom = 218.75
+margin_bottom = 221.75
 text = "Host"
 __meta__ = {
 "_edit_use_anchors_": false
